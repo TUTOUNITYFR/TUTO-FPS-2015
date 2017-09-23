@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 999f469b7fe232e45a50232e628b76f1
+timeCreated: 1490893267
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spark: {instanceID: 0}
+  - explosionPrefab: {fileID: 4000010520946578, guid: b36bf792f8d1c8045b46d6a81b20a1e9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
